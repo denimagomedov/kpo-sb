@@ -5,3 +5,4 @@
 - ДЗ №1: https://github.com/denimagomedov/KPO-HW1.git
 - ДЗ №2: https://github.com/denimagomedov/KPO-HW2.git
 - ДЗ №3: https://github.com/denimagomedov/KPO-HW3.git
+- ДЗ №4: https://github.com/denimagomedov/KPO-HW4.git
